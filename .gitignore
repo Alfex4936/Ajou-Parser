@@ -1,0 +1,9 @@
+/target
+.env
+.hypothesis
+.vscode
+gdf
+browser
+user_data
+Cargo.lock
+ec2
